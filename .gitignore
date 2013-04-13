@@ -7,8 +7,15 @@ lib-cov
 *.pid
 *.gz
 
+.env
+
 pids
 logs
 results
 
+# Generated files
 npm-debug.log
+node_modules
+components
+public/js/*.js
+public/stylesheets/*.css
