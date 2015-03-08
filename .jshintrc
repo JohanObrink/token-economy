@@ -14,7 +14,7 @@
   "noarg": true,
   "sub": true,
   "undef": true,
-  "unused": true,
+  "unused": false,
   "quotmark": "single",
   "browser": true,
   "node": true,
